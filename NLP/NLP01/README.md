@@ -42,7 +42,8 @@
 - 첫째는 최적화 전략으로 Scheduled Teacher Forcing을 0.8를 적용했다는 것이다. 이로 인하여 오바마 - Obama와 같은 단어 정렬(Alignment)이 잘 이루어질 수 있었던 것 같다.
 하지만 TF가 높으면 일반화 능력이 떨어지는 문제를 자율예측을 통하여 보완한 점이 눈에 띄었다. 
 -둘째는 비교적 양호한 번역문을 산출해 냈다.
-<img width="1053" height="735" alt="image" src="https://github.com/user-attachments/assets/db4c5f4a-5640-47ec-b7cf-e4343edfd5f7" />
+<img width="1053" height="735" alt="image" src="https://github.com/user-attachments/assets/2dbb0786-50f2-4326-a156-e6f828690fa9" />
+
 충분한 Epoch으로 학습을 진행한 노력의 결과가 아닐 수 없다.
 세째는 향후 성능 개선 가능성이 있다는 것이다.
 seq2seq를 통하여 드러난 실력을 앞으로 Transformer에 접목하면 탁월한 성능의 번역기를 개발할 것으로 예상된다.
