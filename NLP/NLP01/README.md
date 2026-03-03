@@ -42,8 +42,8 @@
 - 첫째는 최적화 전략으로 Scheduled Teacher Forcing을 0.8를 적용했다는 것이다. 이로 인하여 오바마 - Obama와 같은 단어 정렬(Alignment)이 잘 이루어질 수 있었던 것 같다.
 하지만 TF가 높으면 일반화 능력이 떨어지는 문제를 자율예측을 통하여 보완한 점이 눈에 띄었다. 
 -둘째는 비교적 양호한 번역문을 산출해 냈다.
-<img width="1053" height="735" alt="image" src="https://github.com/user-attachments/assets/2dbb0786-50f2-4326-a156-e6f828690fa9<img width="1053" height="735" alt="20260303_113452" src="https://github.com/user-attachments/assets/0c479e28-5400-48c3-bf55-1a764e69c4dd" />
-" />
+<img width="1053" height="735" alt="20260303_113452" src="https://github.com/user-attachments/assets/cd7d9c74-8e19-4253-90d0-ea0d820164c7" />
+
 
 충분한 Epoch으로 학습을 진행한 노력의 결과가 아닐 수 없다.
 세째는 향후 성능 개선 가능성이 있다는 것이다.
